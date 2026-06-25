@@ -15,7 +15,7 @@ I'm a Computer Science student at UIN Sunan Gunung Djati Bandung with a strong p
 * **Design & Collaboration:** Figma, Canva, Git, Google Colab
 
 ### 📫 Let's Connect!
-* **LinkedIn:** linkedin.com/in/firdaazzahra22
+* **LinkedIn:** linkedin.com/firdaazzahra22
 * **Email:** frdzhra24@gmail.com
 
 ---
